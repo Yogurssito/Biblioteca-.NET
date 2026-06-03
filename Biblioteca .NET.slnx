@@ -1,0 +1,61 @@
+<Solution>
+  <Folder Name="/TP1/">
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio1/Ejercicio 1.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio10/Ejercicio10.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio2/Ejercicio 2.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio3/Ejercicio 3.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio4/Ejercicio 4.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio5/Ejercicio 5.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio6/Ejercicio 6.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio7/Ejercicio 7.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio8/Ejercicio 8.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP1/Ejercicio9/Ejercicio 9.csproj" />
+  </Folder>
+  <Folder Name="/TP2/">
+    <Project Path="../../../Desktop/TPs_CSharp/TP2/Ejercicio1/Ejercicio1.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP2/Ejercicio2/Ejercicio2.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP2/Ejercicio3/Ejercicio3.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP2/Ejercicio4/Ejercicio4.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP2/Ejercicio5/Ejercicio5.csproj" />
+  </Folder>
+  <Folder Name="/TP3/">
+    <Project Path="../../../Desktop/TPs_CSharp/TP3/Ejercicio1/Ejercicio1.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP3/Ejercicio2/Ejercicio2.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP3/Ejercicio3/Ejercicio3.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP3/Ejercicio4/Ejercicio4.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP3/Ejercicio5/Ejercicio5.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP3/Ejercicio6/Ejercicio6.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP3/Ejercicio7/Ejercicio7.csproj" />
+  </Folder>
+  <Folder Name="/TP4/">
+    <Project Path="../../../Desktop/TPs_CSharp/TP4/Ejercicio1/Ejercicio1.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP4/Ejercicio2/Ejercicio2.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP4/Ejercicio3/Ejercicio3.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP4/Ejercicio4/Ejercicio4.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP4/Ejercicio5/Ejercicio5.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP4/Ejercicio6/Ejercicio6.csproj" />
+  </Folder>
+  <Folder Name="/TP5/">
+    <Project Path="../../../Desktop/TPs_CSharp/TP5/Ejercicio1/Ejercicio1.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP5/Ejercicio2/Ejercicio2.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP5/Ejercicio3/Ejercicio3.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP5/Ejercicio4/Ejercicio4.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP5/Ejercicio5/Ejercicio5.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP5/Ejercicio6/Ejercicio6.csproj" />
+  </Folder>
+  <Folder Name="/TP6/">
+    <Project Path="../../../Desktop/TPs_CSharp/TP6/Ejercicio1/Ejercicio1.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP6/Ejercicio2/Ejercicio2.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP6/Ejercicio3/Ejercicio3.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP6/Ejercicio4/Ejercicio4.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP6/Ejercicio5/Ejercicio5.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP6/Ejercicio6/Ejercicio6.csproj" />
+  </Folder>
+  <Folder Name="/TP7/">
+    <Project Path="../../../Desktop/TPs_CSharp/TP7/Ejercicio1/Ejercicio1.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP7/Ejercicio2/Ejercicio2.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP7/Ejercicio3/Ejercicio3.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP7/Ejercicio4/Ejercicio4.csproj" />
+    <Project Path="../../../Desktop/TPs_CSharp/TP7/Ejercicio5/Ejercicio5.csproj" />
+  </Folder>
+</Solution>

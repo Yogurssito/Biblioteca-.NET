@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A719A6B-8004-8EAC-D13B-6BE461F2814D}|..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio6\\Ejercicio6.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp6\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3913F0B5-188D-74D8-CE50-261B3AC9CD50}|..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio5\\Ejercicio5.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp6\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BA211E-E99B-FCDB-F60C-6116A903835B}|..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio4\\Ejercicio4.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp6\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A28383A-5413-9682-CF9D-ADBDF3CC8C2D}|..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio3\\Ejercicio3.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp6\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4A58B6-31B8-D136-D582-B56E2405992B}|..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio5\\Ejercicio5.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp7\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6316D00E-125F-A7F9-DEBE-3CC8E7806CFA}|..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp7\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66BCC01-97CC-F79D-39C4-17ED30203D61}|..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio3\\Ejercicio3.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp7\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828C88D6-0B27-1D6A-A3E4-B9B59CE5C287}|..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio2\\Ejercicio2.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp7\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B334C26-9071-271A-AFBC-33662C117CF1}|..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio4\\Ejercicio4.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp7\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88151A4C-17E2-FD21-FC77-4A3DE77BAE29}|..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp6\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB8BBE3-501D-738F-631A-576BDC2F6C19}|..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio2\\Ejercicio2.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp6\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82818F79-79C4-FCA4-55D7-A5CD0EF16DD0}|..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio3\\Ejercicio3.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp5\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E0EE32-7F48-B423-B97A-F1498BB4074B}|..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio2\\Ejercicio2.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp5\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD99CF11-23D7-0D7F-F77B-D042BCEC9BB6}|..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp5\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11E3CC-8419-A9D1-85F6-44A66E46DECE}|..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio3\\Ejercicio3.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp4\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B518E12-266F-2792-4813-0F51A129F264}|..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio4\\Ejercicio4.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp4\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5987B96-54F5-2138-5269-6E42CB9B32C0}|..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio5\\Ejercicio5.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp4\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694B4E87-2A4F-33F2-E63E-457C869FB1CA}|..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio6\\Ejercicio6.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp4\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C973DD1E-DE5A-46B9-D842-BF202E28F988}|..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio2\\Ejercicio2.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp3\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D252DFA-0A30-0A55-922C-B414A3F0F52D}|..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp3\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63605C36-AF7F-8C41-43C0-187148AB1AE5}|..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Ejercicio 1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp1\\ejercicio1\\ejercicio 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445B269A-313B-35DD-9A84-9421819CA7F6}|..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp2\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445B269A-313B-35DD-9A84-9421819CA7F6}|..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp2\\ejercicio1\\ejercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D252DFA-0A30-0A55-922C-B414A3F0F52D}|..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp3\\ejercicio1\\ejercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B6C634-1C6A-DA65-3E96-B31E481B0F61}|..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio5\\Ejercicio5.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp2\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABC4D7-0C03-19E5-F5BE-12AC6A6310E3}|..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Ejercicio 9.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp1\\ejercicio9\\ejercicio 9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D203FF66-C8D7-5B35-878E-381C02BAD3FD}|..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio10\\Ejercicio10.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp1\\ejercicio10\\ejercicio10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ABC4D7-0C03-19E5-F5BE-12AC6A6310E3}|..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Ejercicio9.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp1\\ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E664A90C-D49A-7065-87C2-1CD8D0E04FFF}|..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio5\\Ejercicio5.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp1\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33635FCA-2DDB-8186-B0A4-700D9FED2B88}|..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio2\\Ejercicio2.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp1\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63605C36-AF7F-8C41-43C0-187148AB1AE5}|..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\desktop\\tps_csharp\\tp1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:02:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:01:36.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:01:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:01:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP7\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP7\\Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:01:00.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio6\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:58:03.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:57:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:56:54.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:56:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:55:47.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP6\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP6\\Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:55:42.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP5\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP5\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:53:38.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP5\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP5\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:53:09.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP5\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP5\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP5\\Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:52:42.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP4\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP4\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:49:04.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP4\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP4\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:48:48.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP4\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP4\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:48:36.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP4\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP4\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP4\\Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:45:35.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP3\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP3\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:43:11.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ejercicio1",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Ejercicio1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Ejercicio1.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Ejercicio1.csproj",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Ejercicio1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T13:42:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:41:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP2\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP2\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:38:25.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP2\\Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:34:43.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:32:38.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Ejercicio 9.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Ejercicio 9.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Ejercicio 9.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Ejercicio 9.csproj",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio9\\Ejercicio 9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T13:32:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Ejercicio10.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio10\\Ejercicio10.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio10\\Ejercicio10.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio10\\Ejercicio10.csproj",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio10\\Ejercicio10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T13:32:30.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:30:48.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:29:09.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:27:46.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ejercicio 1.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Ejercicio 1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Ejercicio 1.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Ejercicio 1.csproj",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP1\\Ejercicio1\\Ejercicio 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T13:27:44.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Ejercicio1",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Ejercicio1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Ejercicio1.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Ejercicio1.csproj",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TPs_CSharp\\TP3\\Ejercicio1\\Ejercicio1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T13:41:37.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

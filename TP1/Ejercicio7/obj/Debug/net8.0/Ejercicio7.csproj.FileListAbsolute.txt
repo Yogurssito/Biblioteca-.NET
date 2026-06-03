@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\bin\Debug\net8.0\Ejercicio7.exe
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\bin\Debug\net8.0\Ejercicio7.deps.json
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\bin\Debug\net8.0\Ejercicio7.runtimeconfig.json
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\bin\Debug\net8.0\Ejercicio7.dll
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\bin\Debug\net8.0\Ejercicio7.pdb
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\Ejercicio7.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\Ejercicio7.dll
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\refint\Ejercicio7.dll
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\Ejercicio7.pdb
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\Ejercicio7.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TPs_CSharp\TP1\Ejercicio7\obj\Debug\net8.0\ref\Ejercicio7.dll
