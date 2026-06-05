@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<title>Taller Mecánico</title>
+</head>
+
+<body style="font-family:Arial; margin:30px;">
+
+<h1><u>Solicitud de Turno</u></h1>
+
+<p>
+Complete el formulario para solicitar un turno para su vehículo.
+</p>
+
+<hr>
+
+<form>
+
+<label>Nombre del cliente:</label>
+<br>
+<input type="text" required>
+
+<br><br>
+
+<label>Teléfono de contacto:</label>
+<br>
+<input type="number" required>
+
+<br><br>
+
+<label>Email:</label>
+<br>
+<input type="email" required>
+
+<br><br>
+
+<label>Marca del vehículo:</label>
+<br>
+<input type="text" required>
+
+<br><br>
+
+<label>Modelo del vehículo:</label>
+<br>
+<input type="text" required>
+
+<br><br>
+<h3>Tipo de servicio requerido</h3>
+
+<input type="radio" name="servicio">
+Cambio de aceite
+
+<br>
+
+<input type="radio" name="servicio">
+Revisión general
+
+<br>
+
+<input type="radio" name="servicio">
+Frenos
+
+<br>
+
+<input type="radio" name="servicio">
+Otro
+<br><br>
+<h3>Servicios adicionales</h3>
+
+<input type="checkbox">
+Lavado del vehículo
+
+<br>
+
+<input type="checkbox">
+Revisión eléctrica
+
+<br>
+
+<input type="checkbox">
+Diagnóstico computarizado
+
+<br><br>
+
+<label>Fecha deseada para el turno:</label>
+
+<br>
+
+<input type="date" required>
+
+<br><br>
+
+<label>Comentarios o descripción del problema:</label>
+
+<br>
+
+<textarea rows="5" cols="40"
+required minlength="10">
+</textarea>
+
+<br><br>
+
+<input type="submit" value="Solicitar Turno">
+
+</form>
+
+</body>
+</html>

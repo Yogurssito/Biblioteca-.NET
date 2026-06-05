@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML & CSS - Ejercicio 2</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      font-size: 14px;
+      margin: 30px auto;
+      max-width: 680px;
+      color: #222;
+      background-color: #fff;
+      line-height: 1.7;
+    }
+
+    h1 {
+      font-size: 16px;
+      font-family: Georgia, serif;
+      color: #1a0dab;
+      text-decoration: underline;
+      font-weight: normal;
+      margin-bottom: 16px;
+      cursor: pointer;
+    }
+
+    h1:hover {
+      color: #c00;
+    }
+
+    p {
+      margin: 12px 0;
+      text-align: justify;
+      font-size: 14px;
+    }
+
+    .internet {
+      font-style: normal;
+    }
+
+    .cursiva-negrita {
+      font-style: italic;
+      font-weight: bold;
+    }
+
+    .subrayado-negrita {
+      font-weight: bold;
+      text-decoration: underline;
+      font-style: italic;
+    }
+
+    a {
+      color: #1a0dab;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .hojas {
+      font-style: italic;
+      text-decoration: underline;
+      font-weight: bold;
+    }
+
+    .todo-cursiva {
+      font-style: italic;
+    }
+
+    .highlight {
+      background-color: #ffff00;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Título como enlace azul subrayado -->
+  <h1>HTML &amp; CSS: Curso práctico avanzado</h1>
+
+  
+  <p>
+    Aunque los inicios de <span class="internet"><a href="#">Internet</a></span> se remontan a los años sesenta,
+    no ha sido hasta los años noventa cuando, gracias a la Web, se ha extendido su uso por todo el mundo. En
+    pocos años, la Web ha evolucionado enormemente: se ha pasado de páginas sencillas, con pocas imágenes y
+    contenidos estáticos que eran visitadas por unos pocos usuarios a
+    <span class="cursiva-negrita">páginas complejas, con contenidos dinámicos que provienen de bases
+    de datos y que son visitadas por miles de usuarios al mismo tiempo</span>.
+  </p>
+
+  <!-- Párrafo 2 -->
+  <p>
+    Todas las páginas están internamente construidas con la misma tecnología, con el
+    <span class="subrayado-negrita">Lenguaje de marcas de hipertexto</span>
+    (<strong>Hypertext Markup Language</strong>, <a href="#">HTML</a>) y con las
+    <span class="hojas">Hojas de estilo en cascada</span>
+    (<strong>Cascading Style Sheets</strong>, <a href="#">CSS</a>).
+  </p>
+
+  <!-- Párrafo 3 en cursiva -->
+  <p class="todo-cursiva">
+    Este libro es adecuado para cualquiera que tenga interés en aprender a desarrollar sus propias páginas web.
+    No son necesarios conocimientos previos para aprender con este libro, lo único que es necesario es
+    saber utilizar un ordenador y saber navegar por la Web.
+  </p>
+
+</body>
+</html>

@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    background-color: #ffffff;
+    color: #222222;
+    max-width: 420px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #cc0000;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+header h1 {
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+
+.imagen-portada {
+    width: 100%;
+    height: 160px;
+    overflow: hidden;
+    background-color: #cccccc;
+}
+
+.imagen-portada img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.barra-titulo {
+    background-color: #cc0000;
+    color: #ffffff;
+    padding: 6px 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.contenido {
+    padding: 10px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.contenido p {
+    margin-bottom: 8px;
+}
+
+.cursiva-roja {
+    font-style: italic;
+    color: #cc0000;
+}
+
+.contenido ol {
+    padding-left: 18px;
+}
+
+.contenido li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.titulo-item {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.titulo-lenguaje {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+    letter-spacing: 6px;
+    padding: 10px 0 4px;
+}
+
+.imagen-logo {
+    text-align: center;
+    margin: 8px 0;
+}
+
+.imagen-logo img {
+    max-width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.caption {
+    background-color: #cc0000;
+    color: #ffffff;
+    font-size: 11px;
+    padding: 3px 8px;
+    display: inline-block;
+    margin-top: 4px;
+}
+
+a {
+    color: #2266cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.enlace-rojo {
+    color: #cc0000;
+}
+
+footer {
+    padding: 8px 10px;
+    font-size: 12px;
+}
+
+footer a {
+    color: #2266cc;
+}

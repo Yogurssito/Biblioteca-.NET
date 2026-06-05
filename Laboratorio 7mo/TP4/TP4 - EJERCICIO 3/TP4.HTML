@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Encuesta Tecnológica</title>
+</head>
+
+<body style="font-family:Arial; margin:30px;">
+
+<h1><u>Encuesta sobre Tecnología</u></h1>
+
+<p>Complete la siguiente encuesta.</p>
+
+<hr>
+
+<form>
+
+<fieldset>
+<legend><b>Datos personales</b></legend>
+
+<label for="nombre_enc">Nombre del estudiante:</label>
+<br>
+<input type="text" id="nombre_enc" name="nombre" required minlength="3">
+<br><br>
+
+<label for="edad_enc">Edad:</label>
+<br>
+<input type="number" id="edad_enc" name="edad" required min="1" max="120">
+<br><br>
+
+<label for="curso_enc">Curso:</label>
+<br>
+<input type="text" id="curso_enc" name="curso" required minlength="1">
+
+</fieldset>
+
+<br>
+
+<fieldset>
+<legend><b>Dispositivo que usa con mayor frecuencia</b></legend>
+
+<input type="radio" id="dispositivo_pc" name="dispositivo" value="computadora" required>
+<label for="dispositivo_pc">Computadora</label>
+<br>
+
+<input type="radio" id="dispositivo_celular" name="dispositivo" value="celular">
+<label for="dispositivo_celular">Celular</label>
+<br>
+
+<input type="radio" id="dispositivo_tablet" name="dispositivo" value="tablet">
+<label for="dispositivo_tablet">Tablet</label>
+
+</fieldset>
+
+<br>
+
+<fieldset>
+<legend><b>Actividades que realiza con tecnología</b></legend>
+
+<input type="checkbox" id="actividad_estudiar" name="actividades" value="estudiar">
+<label for="actividad_estudiar">Estudiar</label>
+<br>
+
+<input type="checkbox" id="actividad_jugar" name="actividades" value="jugar">
+<label for="actividad_jugar">Jugar</label>
+<br>
+
+<input type="checkbox" id="actividad_redes" name="actividades" value="redes_sociales">
+<label for="actividad_redes">Redes sociales</label>
+<br>
+
+<input type="checkbox" id="actividad_programar" name="actividades" value="programar">
+<label for="actividad_programar">Programar</label>
+<br>
+
+<input type="checkbox" id="actividad_videos" name="actividades" value="ver_videos">
+<label for="actividad_videos">Ver videos</label>
+
+</fieldset>
+
+</form>
+
+</body>
+</html>
